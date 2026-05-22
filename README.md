@@ -27,8 +27,8 @@ Bayi bilgilerinin ve ana portal ekranının görünümü.
   <img src="./screenshots/me.png" alt="Dashboard" width="700" />
 </p>
 
-### Kod Mimarisi (Code)
-Vue 3, `<script setup>` ve Pinia kullanılarak oluşturulmuş temiz, modüler ve sürdürülebilir kod yapısı.
+### Doğrulama Kodu (Code)
+
 
 <p align="center">
   <img src="./screenshots/code.png" alt="Kod Yapısı" width="700" />
