@@ -17,7 +17,7 @@ Kullanıcıların sisteme güvenli bir şekilde giriş yaptığı, modern cam ef
 Sayfadan ayrılmadan, akıcı bir UX (Kullanıcı Deneyimi) ile şifre sıfırlama adımları.
 
 <p align="center">
-  <img src="./screenshots/Forgetpassword.png" alt="Şifremi Unuttum" width="700" />
+  <img src="./screenshots/Forgotpassword.png" alt="Şifremi Unuttum" width="700" />
 </p>
 
 ### Kullanıcı / Dashboard (Me)
